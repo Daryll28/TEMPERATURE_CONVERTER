@@ -1,0 +1,20 @@
+*{
+    background-color: beige;
+}
+
+body{
+    border-bottom: 9px solid black;
+    border-top: 9px solid black;
+}
+#cels{
+    border: 6px solid rgb(255, 0, 0);
+}
+#fahren{
+    border: 6px solid red;
+}
+
+h1{
+    border-left-radius: 60%;
+    border-left:630px solid black;
+    border-right: 630px solid black;
+}
