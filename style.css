@@ -3,18 +3,20 @@
 }
 
 body{
-    border-bottom: 9px solid black;
-    border-top: 9px solid black;
+    border: 9px solid black;
 }
 #cels{
     border: 6px solid rgb(255, 0, 0);
+    background-color: rgb(72, 255, 0);
 }
 #fahren{
     border: 6px solid red;
+    background-color: rgb(72, 255, 0);
 }
 
 h1{
     border-left-radius: 60%;
     border-left:630px solid black;
     border-right: 630px solid black;
+    background-color: red;
 }
